@@ -1,0 +1,16 @@
+<!DOCtype html>
+<html>
+<head>
+<link rel= "stylesheet" type= "text/css" href="boxes.css"
+
+</head>
+<body>
+<div id="box1"></div>
+<button id= "button1">green</button>
+<div id="box2"></div>
+<button id= "button2">red</button>
+
+<div id='box2"</div>
+<button id= "button2">red</button>
+<script src="box.js"></script>
+</body>
