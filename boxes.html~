@@ -6,11 +6,8 @@
 </head>
 <body>
 <div id="box1"></div>
-<button id= "button1">green</button>
+<button id= "green">green</button>
 <div id="box2"></div>
-<button id= "button2">red</button>
-
-<div id='box2"</div>
-<button id= "button2">red</button>
+<button id= "red">red</button>
 <script src="box.js"></script>
 </body>
